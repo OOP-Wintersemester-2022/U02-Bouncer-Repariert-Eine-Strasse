@@ -19,11 +19,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/juergen/2_teaching/OOP_Ü_22WS/U02-Bouncer-Repariert-Eine-Strasse/lib/Bouncer-Library-v1.3.2.jar",
+    "last_opened_file_path": "/home/juergen/2_teaching/OOP_Ü_22WS/U02-Bouncer-Repariert-Eine-Strasse/lib/Bouncer-Library-v1.3.4.jar",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
 </project>
